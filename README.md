@@ -40,3 +40,12 @@ Repositorio enfocado en el desarrollo y práctica de **Ciencia de Datos, Machine
 ## ⚙️ Cómo ejecutar el proyecto localmente
 
 git clone https://github.com/Santiago-DataHealthcare/healthcare-data-analytics.git
+
+Asegúrate de tener instaladas las librerías necesarias:
+
+Bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+Abre el entorno de Jupyter Notebook para explorar el código:
+
+Bash
+jupyter notebook
